@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/image-compressor/static/js/main.11019af4.js",
+    "static/js/453.c17053bd.chunk.js": "/image-compressor/static/js/453.c17053bd.chunk.js",
+    "index.html": "/image-compressor/index.html",
+    "main.11019af4.js.map": "/image-compressor/static/js/main.11019af4.js.map",
+    "453.c17053bd.chunk.js.map": "/image-compressor/static/js/453.c17053bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.11019af4.js"
+  ]
+}
